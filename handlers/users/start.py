@@ -4,7 +4,8 @@ from loader import dp,db
 from utils.db_api.sqlite import *
 from aiogram.types import CallbackQuery
 from  keyboards.inline.lang import laguage, laguageen, laguageru, laguagetk, laguageuz
-
+#DAsturchi : @MrGayratov
+#MAnba : @KingsOfPy
 langa = f"<b>🌍 Choose a Language :</b>"
 
 @dp.message_handler(CommandStart())
