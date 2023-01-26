@@ -5,3 +5,6 @@
 -🐍 Portfolio uchun
 
 -👅 Til tanlash funkisyasi
+
+DAsturchi : @MrGayratov
+Manba : @KingsOfPy
