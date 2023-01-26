@@ -3,7 +3,8 @@ from aiogram.dispatcher.filters.builtin import CommandHelp
 
 from loader import dp,db
 
-
+#DAsturchi : @MrGayratov
+#MAnba : @KingsOfPy
 @dp.message_handler(CommandHelp())
 async def bot_help(message: types.Message):
     id = message.chat.id
